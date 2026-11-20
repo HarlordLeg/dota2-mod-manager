@@ -44,7 +44,7 @@ else, and the window e2e fails on any refusal in the app's log.
 | `app/` | 22 | The app itself: settings, language, its window and tray, updates, logs, support and Discord. |
 | `arcana/` | 11 | Arcanas, personas and their bases, gems and the rank look. |
 | `catalog/` | 15 | The mod catalog and everything fetched over the network: mirrors, the remote config, pictures, counters, links. |
-| `formats/` | 20 | File formats the game and the tools speak: KeyValues, VPK, compiled resources, textures, images, archives. |
+| `formats/` | 21 | File formats the game and the tools speak: KeyValues, VPK, compiled resources, textures, images, archives. |
 | `game/` | 18 | Dota on this machine: finding it, its language folders, gameinfo and signatures, watching it run and patch. |
 | `install/` | 21 | Putting mods into the game and keeping the record of them: the installer, the library, imports and removal. |
 | `item_builder/` | 26 | The item builder: what a pick writes, its effects, styles, sets, sounds and the look on everybody. |
